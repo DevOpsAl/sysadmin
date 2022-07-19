@@ -1,0 +1,37 @@
+cd
+grep
+lsblk
+blkid
+id
+yum
+sudo
+apt-get
+apt
+apt chached 
+mv
+rm
+cp
+mkdir
+ssh
+git init
+git config --global user.name <nam>
+git config --global unser.email <email>
+git pull
+git push
+git add
+git commit
+git status
+git branch
+git merge
+git clone
+vim
+df
+cat
+echo
+touch
+tar
+nano
+apache
+init 0-6
+dmesg
+git checkout
