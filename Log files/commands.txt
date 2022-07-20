@@ -1,0 +1,13 @@
+  Basic Git Commands
+
+  165  echo "# dreate 2nd file for my project" >> RM1.md
+  166  git config --global user.email "devopswithal@gmail.com"
+  167  git config --global user.name "Admin"
+  170  git init
+  171  git add RM1.md
+  172  git commit -m "first commit"
+  173  git branch -M main 
+  174  git remote add origin https://github.com/DevOpsAl/DO-CTT-New-Project.git
+  175  git push -u origin main
+  176  git status
+  190  history | tail -10 > commands.txt

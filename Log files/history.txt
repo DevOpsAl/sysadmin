@@ -1,0 +1,49 @@
+    1  man uname
+    2  cd
+    3  sudo apt install Apache2
+    4  sudo apt-get install gcc compiler
+    5  sudo apt update
+    6  sudo apt install build-essentials
+    7  sudo apt install build-essential
+    8  apt install synaptic
+    9  sudo apt install synaptic
+   10  synaptic
+   11  sudo synaptic
+   12  ls -l /usr/game
+   13  ls -l /
+   14  ls -l /usr
+   15  ls -l /usr/games
+   16  sudo apt update
+   17  sudo apt dist-upgrade
+   18  sudo apt upgrade
+   19  sudo apt install python3
+   20  python3 -V
+   21  sudo apt install python3-pip
+   22  sudo apt install deafult-jdk
+   23  sudo apt install default-jdk
+   24  cd
+   25  atc
+   26  sudo apt update
+   27  sudo apt upgrade
+   28  ninvaders
+   29  bastet
+   30  exit
+   31  cs
+   32  cd
+   33  sudo apt update
+   34  sudo apt install bastet
+   35  sudo apt-get install ninvaders
+   36  sudo apt-get install nsnake
+   37  sudo apt-get install bsdgames
+   38  sudo apt-get install moon-buggy
+   39  atc
+   40  man atc
+   41  exit
+   42  tail 25 history
+   43  tail -25 history
+   44  history > /devopsadmin/history.txt
+   45  touch /devopsadmin/history.txt
+   46  cd
+   47  pwd
+   48  touch /home/devopsadmin/history.txt
+   49  history > /home/devopsadmin/history.txt
