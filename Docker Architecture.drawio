@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T16:56:51.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="zGwkASPdJ9kKq_0mu3XL" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T17:34:26.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="BJ958k6XrzAo5U-Lhgfj" version="20.2.3" type="github">
   <diagram id="zN9layMrW8ZE2Ge-d0zk" name="Page-1">
     <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -147,6 +147,27 @@
         </mxCell>
         <mxCell id="B8tICJD2nGcjvCdbVtIU-53" value="&lt;h1&gt;Docker Architecture&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="340" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="B8tICJD2nGcjvCdbVtIU-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="B8tICJD2nGcjvCdbVtIU-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="275" y="670" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="B8tICJD2nGcjvCdbVtIU-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="735" width="225" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="B8tICJD2nGcjvCdbVtIU-57" value="Rest API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8tICJD2nGcjvCdbVtIU-58" value="Docker CLI" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="620" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8tICJD2nGcjvCdbVtIU-60" value="Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="765" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8tICJD2nGcjvCdbVtIU-61" value="&lt;h1&gt;Docker&amp;nbsp; &amp;nbsp; Engine&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="700" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
