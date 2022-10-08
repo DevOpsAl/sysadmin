@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T14:08:11.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.47" version="20.2.3" etag="eVR3uu2bnhBO70JuX0-t" type="github"><diagram id="ZpoW-5_zmQfj2YUIRrpp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-08T18:02:27.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="hUuAHlrIadLiBEJFFJHS" version="20.4.0" type="github">
+  <diagram id="ZpoW-5_zmQfj2YUIRrpp" name="Page-1">
+    <mxGraphModel dx="992" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bD6WIRs1FbXDWNFnN4uZ-1" value="Public Clouds" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bD6WIRs1FbXDWNFnN4uZ-3" value="Azure" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="bD6WIRs1FbXDWNFnN4uZ-1">
+          <mxGeometry x="70" y="40" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD6WIRs1FbXDWNFnN4uZ-4" value="GCP" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="bD6WIRs1FbXDWNFnN4uZ-1">
+          <mxGeometry x="140" y="40" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD6WIRs1FbXDWNFnN4uZ-2" value="Aws" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="240" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD6WIRs1FbXDWNFnN4uZ-5" value="Private Clouds" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bD6WIRs1FbXDWNFnN4uZ-6" value="Openstack&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="bD6WIRs1FbXDWNFnN4uZ-5">
+          <mxGeometry x="70" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD6WIRs1FbXDWNFnN4uZ-8" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="490" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD6WIRs1FbXDWNFnN4uZ-9" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="500" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD6WIRs1FbXDWNFnN4uZ-10" value="VMs" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD6WIRs1FbXDWNFnN4uZ-11" value="Physical Machines&amp;nbsp;&lt;br&gt;Linux/Win" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
